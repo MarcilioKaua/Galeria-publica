@@ -1,8 +1,8 @@
 # Galeria Pública 
 
-# Sobre o projeto
-
 https://65a73dc5376b26530e558b70--calm-syrniki-b6a199.netlify.app/gallery
+
+# Sobre o projeto
 
 O Galeria Pública é um projeto que busca estabelecer uma plataforma online acessível a todos, transformando-se em um ponto de encontro para entusiastas compartilharem e apreciarem imagens diversas. 
 Esse projeto tem como objetivo proporcionar um espaço inclusivo que abraça diversas formas de expressão visual, promovendo assim a riqueza e a variedade de estilos fotográficos.
