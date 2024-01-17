@@ -1,5 +1,4 @@
 # Galeria Pública 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcilioKaua/Clima/blob/main/LICENSE) 
 
 # Sobre o projeto
 
