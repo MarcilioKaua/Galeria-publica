@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# Galeria Pública 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcilioKaua/Clima/blob/main/LICENSE) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
 
-Currently, two official plugins are available:
+https://65a73dc5376b26530e558b70--calm-syrniki-b6a199.netlify.app/gallery
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O Galeria Pública é um projeto que busca estabelecer uma plataforma online acessível a todos, transformando-se em um ponto de encontro para entusiastas compartilharem e apreciarem imagens diversas. 
+Esse projeto tem como objetivo proporcionar um espaço inclusivo que abraça diversas formas de expressão visual, promovendo assim a riqueza e a variedade de estilos fotográficos.
 
-## Expanding the ESLint configuration
+## Layout
+![Web 1](https://media.licdn.com/dms/image/D4D22AQETt8M9r6I6Ew/feedshare-shrink_2048_1536/0/1705459471054?e=1708560000&v=beta&t=iSrJHDH9jDt20rebpczdS-_5OxQ7IeQx5SO3GKebi_I)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![Web 2](https://media.licdn.com/dms/image/D4D22AQHDwRy8smo0nA/feedshare-shrink_2048_1536/0/1705459471730?e=1708560000&v=beta&t=pw8j_an4DIdhgqzEUBM7aH7y3mkziU8z19OrWaloycQ)
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Tecnologias utilizadas
+- HTML
+- CSS
+- TypeScript
+- React
+- Styled Components
+- Firebase
