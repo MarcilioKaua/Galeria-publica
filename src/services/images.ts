@@ -1,7 +1,6 @@
 import { Image } from '../types/Image'
 import { storage } from '../libs/firebase'
 import { ref, listAll, getDownloadURL, uploadBytes } from 'firebase/storage'
-import { v4 as generateId } from 'uuid'
 
 export const getAll = async () => {
     let list: Image[] = []
